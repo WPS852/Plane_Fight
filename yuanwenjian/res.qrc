@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.ico</file>
+        <file>res/background.jpg</file>
+        <file>res/bullet.jpg</file>
+        <file>res/myplane.png</file>
+        <file>res/otherplane.png</file>
+        <file>res/Startbutton.png</file>
+        <file>res/restart.png</file>
+        <file>res/continuebtn.png</file>
+        <file>res/frame.jpg</file>
+        <file>res/bullet.png</file>
+        <file>res/middleplane.png</file>
+        <file>res/title.png</file>
+        <file>res/memu_01.wav</file>
+        <file>res/1_01.wav</file>
+        <file>res/ziu_01.wav</file>
+        <file>res/biu_01.wav</file>
+        <file>res/da_01.wav</file>
+        <file>res/di_01.wav</file>
+        <file>res/start_game_btn.png</file>
+        <file>res/paihangbang.png</file>
+        <file>res/test.png</file>
+        <file>res/table2.png</file>
+    </qresource>
+</RCC>
